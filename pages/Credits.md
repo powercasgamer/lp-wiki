@@ -43,9 +43,12 @@ A huge amount of thanks is owed to:
 Additionally, I'd like to thank the project's Discord moderators and helpers, past and present, who work incredibly hard to keep things in order & support the community in using the plugin.
 
 ### Moderators
+* **\_11**
 * **emilyy**
+* **Aberdeener**
 * **Jay**
 * **Larry**
+* **Lord_Samosa**
 * **OmegaWeaponDev**
 * **RyanJH**
 * **Tobi**
@@ -55,14 +58,12 @@ Additionally, I'd like to thank the project's Discord moderators and helpers, pa
 * SpannerMan (retired)
 
 ### Helpers
-* **\_11**
-* **Aberdeener**
 * **ANutley**
 * **ben**
 * **Doctor Zod**
 * **Evident**
+* **Frying Pan**
 * **JG**
-* **Lord_Samosa**
 * **powercas_gamer**
 * **Rainbow Dash**
 * **Unix**
@@ -115,7 +116,6 @@ A big thank you to my Patreons and donators, whose contributions allow me to con
 * ofunny
 * ozraru
 * Paul Sauve
-* powercas_gamer
 * queeirdo
 * royalkingkb
 * Ruinscraft
