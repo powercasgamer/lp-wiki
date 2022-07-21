@@ -44,11 +44,10 @@ Additionally, I'd like to thank the project's Discord moderators and helpers, pa
 
 ### Moderators
 * **\_11**
-* **Aberdeener**
+* **aberdeener**
 * **emilyy**
 * **Jay**
 * **Larry**
-* **Lord_Samosa**
 * **OmegaWeaponDev**
 * **RyanJH**
 * **Tobi**
@@ -66,6 +65,7 @@ Additionally, I'd like to thank the project's Discord moderators and helpers, pa
 * **JG**
 * **powercas_gamer**
 * **Rainbow Dash**
+* **Lord_Samosa**
 * **Unix**
 * **usb_hub**
 * Zeromaniac (retired)
