@@ -63,9 +63,9 @@ Additionally, I'd like to thank the project's Discord moderators and helpers, pa
 * **Evident**
 * **Frying Pan**
 * **JG**
+* **Lord_Samosa**
 * **powercas_gamer**
 * **Rainbow Dash**
-* **Lord_Samosa**
 * **Unix**
 * **usb_hub**
 * Zeromaniac (retired)
